@@ -43,3 +43,17 @@
     ```
     git status
     ```
+
+    ### Documetnation and Resources
+    - Bravo Syllabus
+    - Bravo classroom Google Drive
+    - Cohortmates
+    - Learn Slack channels 
+        - 2022b
+        - everybody
+
+
+    ### What to do if you are stuck
+    - Make sure you have all your resources and documentation
+    - Ask questions. If you are alone ask the questions out loud anyway.
+    - Find another place to ask questions - Slack is a good spot.
