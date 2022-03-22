@@ -20,3 +20,26 @@
     - git add .
     - git commit -m "message"  (Goal of message: hunamn communication)
     - git push origin 
+
+
+    ### Useful Git Commands
+    '''
+    git add .
+    git commit -m "something that is helpful to future me"
+    git push origin main
+    '''
+
+
+    ### Useful Terminal Commands
+    '''
+
+    ls- Lists all the connent of the current directory
+    touch - make a new file
+    cd <name> - change directory into another nested folder/directory
+    cd .. - moves back one level, moves closer to root directory
+    '''
+
+    ### Best Git Command Ever
+    '''
+    git status
+    '''
